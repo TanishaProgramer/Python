@@ -74,5 +74,6 @@ def main():
         else:
             print("BAD TRY....")
 
-## starting of Execution of the program..
-main()
+if __name__ == '__main__':
+    ## starting of Execution of the program..
+    main()
